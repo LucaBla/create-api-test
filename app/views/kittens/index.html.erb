@@ -1,0 +1,8 @@
+<div>
+  <%= @kittens.each do |kitten| %>
+    <%= render kitten %>
+    <p><%= link_to 'Show Kitten', kitten %></p>
+    <%= button_to 'Delete Kitten', kitten_path(kitten), method: :delete%>
+  <% end %>
+  <%= link_to "New Kitten", new_kitten_path %>
+</div>

@@ -1,24 +1,4 @@
-# README
+# Api Test
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This was just a test application to create my own api in rails.
+Its nothing special but if you want you can see it [here](https://floating-taiga-00631.herokuapp.com/).
